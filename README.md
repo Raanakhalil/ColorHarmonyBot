@@ -1,5 +1,7 @@
 # ColorHarmonyBot
 ColorHarmonyBot is an interactive Streamlit application designed to assist users in exploring and generating stunning color combinations. Whether you're a designer, artist, or simply someone looking to enhance your visual projects, this chatbot provides an intuitive platform to discover harmonious color palettes.
+
+
 Key Features:
 Color Picker: Easily select a color from a color wheel to receive tailored combination suggestions.
 Image Upload: Upload an image to extract the dominant color and generate compatible color combinations based on it.
